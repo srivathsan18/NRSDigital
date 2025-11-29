@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NRSDigital/static/css/main.678b0b20.css",
+    "main.js": "/NRSDigital/static/js/main.a5cc8a57.js",
+    "static/js/453.895c6d17.chunk.js": "/NRSDigital/static/js/453.895c6d17.chunk.js",
+    "static/media/logo.png": "/NRSDigital/static/media/logo.68e81cca8bae7cd95651.png",
+    "index.html": "/NRSDigital/index.html",
+    "main.678b0b20.css.map": "/NRSDigital/static/css/main.678b0b20.css.map",
+    "main.a5cc8a57.js.map": "/NRSDigital/static/js/main.a5cc8a57.js.map",
+    "453.895c6d17.chunk.js.map": "/NRSDigital/static/js/453.895c6d17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678b0b20.css",
+    "static/js/main.a5cc8a57.js"
+  ]
+}
